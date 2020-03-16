@@ -16,6 +16,12 @@ dev_dependencies:
 flutter:
   # TODO: Insert Fonts (103)
   uses-material-design: true
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: fonts/Rubik-Regular.ttf
+        - asset: fonts/Rubik-medium.ttf
+          weight: 500
   assets:
     - assets/diamond.png
     # TODO: Add slanted menu asset (104)
